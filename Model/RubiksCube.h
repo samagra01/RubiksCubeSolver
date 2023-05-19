@@ -1,6 +1,4 @@
-//
-// Created by samag on 19-05-2023.
-//
+
 
 #ifndef RUBIKSCUBESOLVER1_RUBIKSCUBE_H
 #define RUBIKSCUBESOLVER1_RUBIKSCUBE_H

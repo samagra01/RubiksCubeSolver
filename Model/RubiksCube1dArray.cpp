@@ -1,6 +1,4 @@
-//
-// Created by samag on 17-05-2023.
-//
+
 #include "RubiksCube.h"
 
 class RubiksCube1dArray : public RubiksCube {

@@ -79,6 +79,12 @@ build CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCubeBitboard.cpp.obj: CXX_COM
   OBJECT_DIR = CMakeFiles\RubiksCubeSolver1.dir
   OBJECT_FILE_DIR = CMakeFiles\RubiksCubeSolver1.dir\Model
 
+build CMakeFiles/RubiksCubeSolver1.dir/PatternDatabases/NibbleArray.cpp.obj: CXX_COMPILER__RubiksCubeSolver1_Debug C$:/Users/samag/CLionProjects/RubiksCubeSolver1/PatternDatabases/NibbleArray.cpp || cmake_object_order_depends_target_RubiksCubeSolver1
+  DEP_FILE = CMakeFiles\RubiksCubeSolver1.dir\PatternDatabases\NibbleArray.cpp.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\RubiksCubeSolver1.dir
+  OBJECT_FILE_DIR = CMakeFiles\RubiksCubeSolver1.dir\PatternDatabases
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target RubiksCubeSolver1
@@ -87,7 +93,7 @@ build CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCubeBitboard.cpp.obj: CXX_COM
 #############################################
 # Link the executable RubiksCubeSolver1.exe
 
-build RubiksCubeSolver1.exe: CXX_EXECUTABLE_LINKER__RubiksCubeSolver1_Debug CMakeFiles/RubiksCubeSolver1.dir/main.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube3dArray.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube1dArray.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCubeBitboard.cpp.obj
+build RubiksCubeSolver1.exe: CXX_EXECUTABLE_LINKER__RubiksCubeSolver1_Debug CMakeFiles/RubiksCubeSolver1.dir/main.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube3dArray.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube1dArray.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCubeBitboard.cpp.obj CMakeFiles/RubiksCubeSolver1.dir/PatternDatabases/NibbleArray.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\RubiksCubeSolver1.dir
