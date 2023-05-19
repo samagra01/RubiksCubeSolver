@@ -1,0 +1,9 @@
+# ninja log v5
+16	7319	7062043353321861	CMakeFiles/RubiksCubeSolver1.dir/main.cpp.obj	d68804602288ed05
+15	390	7060987355945283	CMakeFiles/RubiksCubeSolver1.dir/RubiksCube3dArray.cpp.obj	1e4bfa12a727b9fe
+1	607	7062043818127772	build.ninja	1e1f9c711da8d496
+21	6959	7062035804314978	CMakeFiles/RubiksCubeSolver1.dir/RubiksCube.cpp.obj	2b66dece2e5783ba
+7441	8646	7062043366543810	RubiksCubeSolver1.exe	7cacb00c9738a2c9
+38	9318	7062039982380918	CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube.cpp.obj	70784c1809169627
+27	7236	7062043352501861	CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube3dArray.cpp.obj	4f037c0e655a4faa
+42	7440	7062043354566415	CMakeFiles/RubiksCubeSolver1.dir/Model/RubiksCube1dArray.cpp.obj	212c7182b76d3400
